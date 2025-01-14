@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627153529 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\arquivos_estatisca_binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<string.h>
+

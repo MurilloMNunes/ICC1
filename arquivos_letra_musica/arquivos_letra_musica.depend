@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627063475 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\arquivos_letra_musica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

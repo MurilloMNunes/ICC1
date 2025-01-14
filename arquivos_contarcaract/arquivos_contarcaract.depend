@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627065301 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\arquivos_contarcaract\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

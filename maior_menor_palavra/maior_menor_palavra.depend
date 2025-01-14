@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622401407 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\maior_menor_palavra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

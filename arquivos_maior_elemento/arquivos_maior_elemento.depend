@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627062405 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\arquivos_maior_elemento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626796313 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\recursao_maiornum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

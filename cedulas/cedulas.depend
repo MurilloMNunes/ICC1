@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620002924 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\cedulas\main.c
+	<stdio.h>
+	<stdlib.h>
+

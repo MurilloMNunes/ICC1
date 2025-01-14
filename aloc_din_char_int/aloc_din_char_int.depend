@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626127131 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\aloc_din_char_int\main.c
+	<stdio.h>
+	<stdlib.h>
+

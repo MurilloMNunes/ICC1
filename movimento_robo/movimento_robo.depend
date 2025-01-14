@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623853688 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\movimento_robo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

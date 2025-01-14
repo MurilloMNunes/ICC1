@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626539882 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\aloc_din_sobrenomes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

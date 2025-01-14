@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622551636 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\verificar_senha\main.c
+	<stdio.h>
+	<stdlib.h>
+

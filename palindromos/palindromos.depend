@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622223327 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\palindromos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623871296 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\jogo_da_velha\main.c
+	<stdio.h>
+	<stdlib.h>
+

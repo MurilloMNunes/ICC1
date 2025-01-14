@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625359754 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\ponteiros_part_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

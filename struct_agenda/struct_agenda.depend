@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626549602 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\struct_agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

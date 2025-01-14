@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623895212 source:c:\users\muril\onedrive\documentos\usp\sistemas de computação\programas\decomposicao_primos\main.c
+	<stdio.h>
+	<stdlib.h>
+
